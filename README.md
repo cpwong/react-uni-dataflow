@@ -5,11 +5,12 @@
 In this assignment, you are to draft a component diagram and implement the code according to the diagram. Drawing component diagrams are meant to help you visualize how your code would be. It is not an industry practice, yet it is possible to use it for communicating complex design when necessary.
 
 Consider the following layout:
-<img src="./assets/images/assignment-2.11.png" />
 
-You are to:
-1. Draw a component diagram.
-1. Implement the code.
+<img src="./screenshot.png" />
+
+Component diagram:
+
+<img src="./component-diagram.png" />
 
 ## Submission Guidelines
 
